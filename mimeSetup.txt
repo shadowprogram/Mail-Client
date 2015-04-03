@@ -1,0 +1,5 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="mimeEmail"
+
+This is an email that uses mime to send messages, and image attachment

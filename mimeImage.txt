@@ -1,0 +1,4 @@
+--mimeEmail
+Content-Type: application/octet-stream; name="picture.jpg"
+Content-Transfer-Encoding: base64
+Content-Disposition:attachment; filename="picture.jpg"
