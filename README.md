@@ -6,4 +6,3 @@ SMTP mail client that was implemented for CS4759 (Computer Networking) course at
 Authors: 
 
 * Myles Hann
-* Christopher Healey
